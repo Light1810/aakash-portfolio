@@ -1,0 +1,96 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #181c1f;
+  color: #bdd1d4;
+  margin: 2rem;
+}
+
+header {
+  margin: 2rem 0;
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+  justify-content: center;
+}
+
+header img {
+  width: 150px;
+  height: 150px;
+  background-color: #ffffff;
+  object-fit: cover;
+  border-radius: 50%;
+  object-position:50% 0%;
+}
+
+header h1 {
+  margin: 0;
+  color: #ffffff;
+}
+
+header h3 {
+  margin: 0;
+  color: #ffffff;
+}
+header p {
+  margin: 0;
+  color: #ffffff;
+}
+
+#tabs {
+  max-width: '100%';
+  margin: 2rem 0;
+  overflow: hidden;
+}
+
+#tabs menu {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 0.25rem;
+  white-space: nowrap;
+  overflow: auto;
+}
+
+#tabs button {
+  font: inherit;
+  font-size: 0.85rem;
+  background-color: #282f33;
+  border: none;
+  border-bottom-color: #ffffff;
+  color: #e0eff1;
+  border-radius: 4px 4px 0 0;
+  padding: 0.75rem 1rem;
+  cursor: pointer;
+  transition: all 0.2s ease-out;
+}
+
+#tabs button:hover,
+#tabs button.active {
+  background-color: #2d3942;
+  color: #e0eff1;
+}
+
+#tab-content {
+  background-color: #2d3942;
+  border-radius: 0 4px 4px 4px;
+  padding: 1rem;
+}
+
+#tab-content li {
+  margin: 0.75rem 0;
+}
+
+#tab-content div.title{
+  margin-bottom: 5px;
+}
+#tab-content div.subtitle{
+  margin-bottom: 5px;
+}
+
+#tab-content div.subtitle{
+  margin-bottom: 5px;
+}

@@ -1,0 +1,65 @@
+[
+    {
+      "listdata": [
+        "Over 3 years of specialized knowledge in native and cross-platform mobile app development.",
+        "Proven ability to tackle complex tasks in dynamic, fast-paced settings.",
+        "Dedicated to ensuring high product quality and reliable services.",
+        "Committed to ongoing personal and professional development in a competitive environment."
+      ]
+    },
+    {
+    "titledList": [
+        {
+          "title": "Infosys", 
+          "role": "Senior System Engineer",
+          "tenure": "Sept 2022 - Present",
+          "description": "Proficiently contributed to a utility-based electricity billing application in React-Native, focusing on issue resolution, feature enhancements, and collaboration with backend and testing teams. Actively participated in the Research and Development department, providing valuable support and insights. Utilized Quantum Metric, Visual Studio App Center, and Dynatrace to identify and address production issues and crashes, gaining expertise in Visual Studio App Center for app distribution and demonstrating a strong understanding of GIT version control. Followed Agile Software methodology, collaborating with business and research teams in story grooming, reviewing acceptance criteria, and managing projects using the Atlassian suite - particularly Jira for Project Management. This role highlighted effective teamwork, communication skills, and a proactive approach to problem-solving and continuous improvement."
+
+        },
+        {
+          "title": "Unified Infotech", 
+          "role": "Application Developer",
+          "tenure": "Oct 2020 - Aug 2022",
+          "description": "Proficiently contributed to program logic development, conducting comprehensive research and planning, and assisting the lead developer throughout the analysis, design, development, and optimization phases of applications. Demonstrated expertise in implementing MVVM architecture in iOS Development using Swift 5.0, leveraging mainstream software development tools effectively. Implemented Localize_Swift to enhance language customization capabilities without adjusting device language settings, supporting both RTL/LTR languages. Efficiently synchronized EZAudio and AVAudioRecorder functionalities to display audio waveforms and enable audio recording at various bitrates and qualities. Leveraged REST-based web services and JSON parsers for seamless data interchange, showcasing a strong proficiency in iOS development techniques and methodologies."
+        },
+        {
+          "title": "Computer Software Solutions - (Internship)", 
+          "role": "Java Developer",
+          "tenure": "Apr 2019 - Dec 2019",
+          "description": "Contributed to the development of a comprehensive application enabling users to create and fill out profiles, generate downloadable resumes, and apply for jobs posted by diverse business organizations seeking applicants. This project involved building a user-friendly platform that integrates profile creation, resume generation, and job application functionalities, empowering users to manage their job-seeking activities efficiently within a single application interface."
+        }
+      ]
+    },
+    {
+      "listdata": [
+            "React-Native",
+            "React.js",
+            "iOS - Swift", 
+            "Andorid - Java",
+            "Javascript",
+            "Git version control",
+            "Redux",
+            "JSON",
+            "App Center",
+            "XCode",
+            "Android Studio",
+            "VS Code" 
+    ]
+  },
+   { "listdata": [
+        "MSc Computer Science - St Xavier's Kolkata",
+        "BSc Computer Science - St Xavier's Kolkata",
+        "ISC (Higher Secondary Certificate) - Mary Immaculate",
+        "ICSE (Secondary School Examination) - Mary Immaculate"
+    ]
+  },
+  { "listdata":  [
+        "My SCE",
+        "VIQ",
+        "JM Cashback",
+        "Review Probe",
+        "Elix Health",
+        "Football Zeal",
+        "Kawawa Digital Wallet"
+    ]}
+  ]
